@@ -2,8 +2,8 @@
 ---------------------------------------
 --> 81 minimalist bmp files in .zip
 
-![image1](images/1.png)
-![image2](images/2.png)
+![image1](images/.png)
+![image2](images/.png)
 
 ---------------------------------------
 --> Another download option:https://drive.google.com/drive/folders/1CZev94sI0XL-V6MnUudIBIsMbQ817bLj?usp=drive_link
